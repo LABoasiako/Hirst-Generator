@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icons/icons8-close-window-24.png</file>
+    <file>icons/icons8-minimize-window-24.png</file>
+  </qresource>
+</RCC>
